@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/carrot-language/cli/issues"
   },
-  "homepage": "https://github.com/carrot-language/cli#readme"
+  "homepage": "https://github.com/carrot-language/cli#readme",
+  "dependencies": {
+    "commander": "^9.0.0"
+  }
 }
