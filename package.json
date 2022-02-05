@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/carrot-language/cli#readme",
   "dependencies": {
+    "colors": "^1.4.0",
     "commander": "^9.0.0"
   }
 }
